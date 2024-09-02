@@ -72,9 +72,4 @@ The dataset consists of several tables related to transactions, customers, produ
 - **Customer Retention Rate**: The percentage of customers retained over a specified period.
 - **Customer Segmentation**: Analysis of customers based on demographics and purchasing behavior.
 
-## DAX Formulas
-
-### Sales Formulas
-
-#### Total Sales
 
